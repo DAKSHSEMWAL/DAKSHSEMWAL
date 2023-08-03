@@ -15,10 +15,6 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1ihyhdFtVbJw0m_1zAQk_hhu-RqZrGssswkqUBjebLBY/edit?usp=sharing)
 
- <iframe
-  src="https://docs.google.com/document/d/1ihyhdFtVbJw0m_1zAQk_hhu-RqZrGssswkqUBjebLBY/edit?usp=sharing"
-  style="width:100%; height:300px;"
-></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
