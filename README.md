@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dakshsemwal35@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RrkZyoIcd10GW_zqXHCzQCntyQbWJqui/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1ihyhdFtVbJw0m_1zAQk_hhu-RqZrGssswkqUBjebLBY/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
